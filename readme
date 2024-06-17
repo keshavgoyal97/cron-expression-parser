@@ -1,0 +1,4 @@
+Create venv using requirement.txt file
+
+Run following command
+python3 cron_parser.py "*/15 0 1,15 * 1-5 /usr/bin/find"

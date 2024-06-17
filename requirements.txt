@@ -1,0 +1,7 @@
+console==0.9907
+ezenv==0.92
+markdown-it-py==3.0.0
+mdurl==0.1.2
+parameterized==0.9.0
+Pygments==2.18.0
+rich==13.7.1
